@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate full-stack developer from India, proficient in JavaScript, React, Java, and .NET Core.🚀<br>🔭 I’m currently working on Adventure-Hub<br><br>🌱 Current Working Tech Stacks are JAVA, C#.NET Core Web API, Entity Framework, SpringBoot REST API, Microservices, ReactJs, MySql, GitHub.<br><br>📫 How to reach me : tejasshinkar01@gmail.com<br><br>⚡ Fun fact : Developer with Cat.
+A passionate full-stack developer from India, proficient in JavaScript, React, Java, and .NET Core.🚀<br>🔭 I’m currently working on Adventure-Hub<br><br>🌱 Current Working Tech Stacks: JAVA, C#.NET Core Web API, Entity Framework, SpringBoot REST API, Microservices, ReactJs, MySql, GitHub.<br><br>📫 How to reach me : tejasshinkar01@gmail.com<br><br>⚡ Fun fact : Developer with Cat.
 
 
 ## 🌐 Socials:
