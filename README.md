@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Adventure-Hub](https://github.com/mangeshdete/AdventureHub-CDAC)
 
-- 🌱 I’m currently learning **React, Java SpringBoot, .Net Core WebApi's , MYSQL**
+- 🌱 I’m currently working on **React, Java SpringBoot, .Net Core WebApi's , MYSQL, REDUX**
 
-- 📫 How to reach me **tejasshinkar01@gmail.com**
+- 📫 How to reach me :  **tejasshinkar01@gmail.com**
 
-- ⚡ Fun fact **Developer with Cat.**
+- ⚡ Fun fact : **Developer with Cat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
