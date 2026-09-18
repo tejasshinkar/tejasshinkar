@@ -9,13 +9,13 @@
 
 ## → what I'm building right now
 
-**[Automated EBS Snapshot Manager](🔲-add-repo-link)**: a Python automation system for backing up EBS volumes without babysitting the process.
+**[Automated EBS Snapshot Manager](🔲-add-repo-link)**: A Python automation system for backing up EBS volumes without babysitting the process.
 
 - Identifies eligible volumes purely by tags, so nothing gets snapshotted, or skipped, by accident
 - Creates each snapshot and tags it automatically, then enforces a retention window by deleting anything past it
 - Runs on a schedule instead of manually, and logs every action to CloudWatch so there's an actual record of what ran and when
 
-**[AWS IAM Access Audit Tool](🔲-add-repo-link)**: a Python script that scans an AWS account for the access issues that quietly turn into security debt.
+**[AWS IAM Access Audit Tool](🔲-add-repo-link)**: A Python script that scans an AWS account for the access issues that quietly turn into security debt.
 
 - Flags IAM users without MFA, unused access keys, inactive accounts, and permissions broader than the role actually needs
 - Built to run with read-only permissions wherever possible, since an audit tool shouldn't need write access to the thing it's auditing
