@@ -35,7 +35,7 @@
 
 | Series | |
 |---|---|
-| **Networking Fundamentals** * | [Series →](https://dev.to/tejas_shinkar/series/43298) |
+| **Networking Fundamentals**  | [Series →](https://dev.to/tejas_shinkar/series/43298) |
 | **AWS Cloud** | [Series →](https://dev.to/tejas_shinkar/series/40964) |
 | **AWS Cloud: Hands-On Labs** | [Series →](https://dev.to/tejas_shinkar/series/43157) |
 | **AWS Cloud Projects** | [Series →](https://dev.to/tejas_shinkar/series/43428) |
