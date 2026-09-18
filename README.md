@@ -1,7 +1,6 @@
 <div align="center">
 
 [![typing animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=800&color=2BBC8A&center=true&vCenter=true&width=640&lines=Systems+Engineer+%E2%86%92+Cloud%2FDevOps;Breaking+things+on+purpose+to+learn+how+they+fail;Documenting+the+journey%2C+one+practical+at+a+time)](https://github.com/tejasshinkar)
-
 **[Projects](#-what-im-building-right-now)** · **[Previously Learned](#-previously-learned)** · **[Sharing Knowledge](#-sharing-knowledge)** · **[Stack](#-stack-i-actually-use)** · **[Contact](#-lets-talk)**
 
 </div>
