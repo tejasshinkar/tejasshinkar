@@ -1,12 +1,25 @@
+<div align="center">
+
 [![typing animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=800&color=2BBC8A&center=true&vCenter=true&width=640&lines=Systems+Engineer+%E2%86%92+Cloud%2FDevOps;Breaking+things+on+purpose+to+learn+how+they+fail;Documenting+the+journey%2C+one+practical+at+a+time)](https://github.com/tejasshinkar)
 
 **[Projects](#-what-im-building-right-now)** · **[Previously Learned](#-previously-learned)** · **[Sharing Knowledge](#-sharing-knowledge)** · **[Stack](#-stack-i-actually-use)** · **[Contact](#-lets-talk)**
 
+</div>
+
 ## → what I'm building right now
 
-**[Automated EBS Snapshot Manager](🔲-add-repo-link)**: a Python automation system that tags-identifies eligible EBS volumes, creates and tags snapshots, runs on a schedule, deletes snapshots past a defined retention period, and logs everything to CloudWatch.
+**[Automated EBS Snapshot Manager](🔲-add-repo-link)**: a Python automation system for backing up EBS volumes without babysitting the process.
 
-**🔲 [Infra capstone — Terraform + CI/CD + monitoring, in progress]**: full production-style HA app, description to land here once it's underway.
+- Identifies eligible volumes purely by tags, so nothing gets snapshotted, or skipped, by accident
+- Creates each snapshot and tags it automatically, then enforces a retention window by deleting anything past it
+- Runs on a schedule instead of manually, and logs every action to CloudWatch so there's an actual record of what ran and when
+
+**[AWS IAM Access Audit Tool](🔲-add-repo-link)**: a Python script that scans an AWS account for the access issues that quietly turn into security debt.
+
+- Flags IAM users without MFA, unused access keys, inactive accounts, and permissions broader than the role actually needs
+- Built to run with read-only permissions wherever possible, since an audit tool shouldn't need write access to the thing it's auditing
+- Uses IAM, Lambda/EC2, CloudWatch, and S3, producing an actual reviewable report rather than just flagging problems in a terminal
+- The point isn't just detection. It's practicing least-privilege analysis the way it'd actually be reviewed in a real account
 
 ## → previously learned
 
@@ -26,8 +39,7 @@
 | **AWS Cloud: Hands-On Labs** *(8 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43157) |
 | **AWS Cloud Projects** *(3 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43428) |
 | **Python for Cloud and DevOps** *(10 parts)* | [Series →](https://dev.to/tejas_shinkar/series/40776) |
-| **Linux for Cloud & DevOps** *(4 parts)* | 🔲 (add link) |
-| **Tech After Dark** *(8 parts)* | 🔲 (add link) |
+| **Tech After Dark** *(8 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43607) |
 
 ## → stack I actually use
 
@@ -46,6 +58,12 @@
 **day-to-day tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+**development background**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Microservices](https://img.shields.io/badge/Microservices-4B275F?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+full-stack roots, now focused on cloud/DevOps
 
 currently deepening: Terraform, CI/CD pipelines, and AI-assisted cloud automation
 
