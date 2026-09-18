@@ -8,65 +8,26 @@
 
 **🔲 [Infra capstone — Terraform + CI/CD + monitoring, in progress]**: full production-style HA app, description to land here once it's underway.
 
-> ✅ Finished: [AWS Database Mini Projects](https://github.com/tejasshinkar/Aws-Database-mini-projects), [Server Data Archival to S3](https://github.com/tejasshinkar/server-data-archival), and [Highly Available Web App](https://github.com/tejasshinkar/aws-highly-available-web-app) — pinned on the profile below.
-
 ## → previously learned
 
 | | |
 |---|---|
-| **Networking fundamentals** | Built a multi-part series from the OSI model through routing, switching, ARP, and core protocols, the foundation everything else in AWS networking sits on |
+| **Database architecture** | RDS Multi-AZ vs Read Replica, Aurora failover behavior, DynamoDB key design (partition/sort keys, GSIs, LSIs), and cache-aside patterns with ElastiCache — the trade-offs between availability, read scaling, and performance across relational and NoSQL |
 | **Infrastructure as Code** | Practiced CloudFormation across progressively complex stacks, from a single EC2 instance to a self-healing ALB + Auto Scaling Group architecture |
-| **[Highly available web app](https://github.com/tejasshinkar/aws-highly-available-web-app)** | Deployed ALB + EC2 + Auto Scaling + CloudWatch across multiple Availability Zones, then killed an instance on purpose to prove the self-healing actually works |
+| **Secure automation design** | Least-privilege IAM, idempotent scripting, and how a restricted permission model can change error behavior entirely (a missing-object check returning `403` instead of `404`) — the habits that separate a working script from something you'd trust unattended |
 | **Event-driven architecture** | Wired S3 → Lambda, SNS → SQS with a dead-letter queue, and CloudWatch alarms → SNS notifications, then deliberately broke each one to learn exactly how it fails |
 
 ## → sharing knowledge
 
-**Networking Fundamentals** *(6-part series)*
-
-| | |
+| Series | |
 |---|---|
-| 🔲 Part 1 | (add link) |
-| 🔲 Part 2 | (add link) |
-| 🔲 Part 3 | (add link) |
-| 🔲 Part 4 | (add link) |
-| 🔲 Part 5 | (add link) |
-| 🔲 Part 6 | (add link) |
-
-**AWS Cloud** *(18-part series)*
-
-| | |
-|---|---|
-| 🔲 (add posts as they go up) | |
-
-**AWS Cloud: Hands-On Labs** *(8-part series)*
-
-| | |
-|---|---|
-| 🔲 (add posts as they go up) | |
-
-**AWS Cloud Projects** *(3-part series)*
-
-| | |
-|---|---|
-| 🔲 (add posts as they go up) | |
-
-**Python for Cloud and DevOps** *(10-part series)*
-
-| | |
-|---|---|
-| 🔲 (add posts as they go up) | |
-
-**Linux for Cloud & DevOps** *(4-part series)*
-
-| | |
-|---|---|
-| 🔲 (add posts as they go up) | |
-
-**Tech After Dark** *(8-part series)*
-
-| | |
-|---|---|
-| 🔲 (add posts as they go up) | |
+| **Networking Fundamentals** *(6 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43298) |
+| **AWS Cloud** *(18 parts)* | [Series →](https://dev.to/tejas_shinkar/series/40964) |
+| **AWS Cloud: Hands-On Labs** *(8 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43157) |
+| **AWS Cloud Projects** *(3 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43428) |
+| **Python for Cloud and DevOps** *(10 parts)* | [Series →](https://dev.to/tejas_shinkar/series/40776) |
+| **Linux for Cloud & DevOps** *(4 parts)* | 🔲 (add link) |
+| **Tech After Dark** *(8 parts)* | 🔲 (add link) |
 
 ## → stack I actually use
 
