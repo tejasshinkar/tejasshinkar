@@ -35,12 +35,12 @@
 
 | Series | |
 |---|---|
-| **Networking Fundamentals** *(6 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43298) |
-| **AWS Cloud** *(18 parts)* | [Series →](https://dev.to/tejas_shinkar/series/40964) |
-| **AWS Cloud: Hands-On Labs** *(8 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43157) |
-| **AWS Cloud Projects** *(3 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43428) |
-| **Python for Cloud and DevOps** *(10 parts)* | [Series →](https://dev.to/tejas_shinkar/series/40776) |
-| **Tech After Dark** *(8 parts)* | [Series →](https://dev.to/tejas_shinkar/series/43607) |
+| **Networking Fundamentals** * | [Series →](https://dev.to/tejas_shinkar/series/43298) |
+| **AWS Cloud** | [Series →](https://dev.to/tejas_shinkar/series/40964) |
+| **AWS Cloud: Hands-On Labs** | [Series →](https://dev.to/tejas_shinkar/series/43157) |
+| **AWS Cloud Projects** | [Series →](https://dev.to/tejas_shinkar/series/43428) |
+| **Python for Cloud and DevOps** | [Series →](https://dev.to/tejas_shinkar/series/40776) |
+| **Tech After Dark** | [Series →](https://dev.to/tejas_shinkar/series/43607) |
 
 ## → stack I actually use
 
@@ -70,6 +70,6 @@ currently deepening: Terraform, CI/CD pipelines, and AI-assisted cloud automatio
 
 ## → let's talk
 
-**[LinkedIn](🔲-add-linkedin-url)** · **[dev.to](https://dev.to/tejas_shinkar)** · **[Email](🔲-add-email)**
+**[LinkedIn](https://www.linkedin.com/in/tejasshinkar01/)** · **[dev.to](https://dev.to/tejas_shinkar)** · **[Email](tejasshinkar2002@gmail.com)**
 
 If I broke it on purpose, there's a write-up explaining why.
